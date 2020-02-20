@@ -1,0 +1,85 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Bebas Neue', cursive; */
+
+/* -------------------nav bar------------------ */
+
+.nav {
+    background-color: #032F58;
+    border: #011A1F;
+    text-decoration-color: #011A1F;
+}
+
+.nav-tabs {
+
+}
+
+
+/* --------------------jumbo tron ------------------------- */
+.jumbotron {
+    background-image: url("../img/IMG_2855.jpg");
+    background-size: cover;
+    height: 1000px;
+  }
+
+  .container {
+    font-family: 'Bebas Neue', cursive;
+    color: #D3D6DD;  
+  }
+
+.planevid {
+
+    min-width: 100%;
+    min-height: 100%;
+    background-attachment: fixed;
+}
+
+.vesterhornvid {
+    min-width: 100%;
+    min-height: 100%;
+    background-attachment: fixed;
+}
+
+/* --------------------about me ------------ */
+
+#our-story .row {
+  margin-top: 30px;
+  padding-top: 15px;
+  padding-bottom: 55px;
+}
+
+#our-story h2{
+  font-family: 'Bebas Neue', cursive;;
+  color: #032F58;
+  font-size: 8rem;
+  text-shadow: 1px 1px 5px #0a0a0a;
+
+}
+
+#our-story h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+#our-story p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+
+/* -------------end of our story ------------- */
+
+/* -------------galary images ---------------- */
+
+.img-fluid {
+  max-width: 25%;
+  border-radius: 15px;
+}
+
+.img-fluidhor {
+  max-width: 45%;
+  border-radius: 15px;
+}
+
+
